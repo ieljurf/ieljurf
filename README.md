@@ -8,4 +8,10 @@ Outside of my studies, I enjoy hiking, camping, and exploring design. I’ve won
 
 <b>Skills:</b> JS ♡ HTML ♡ CSS
 
+<div>
+    <a href="https://www.behance.net/idaeljurf" target="_blank" style="text-decoration: none; color: inherit;">🎨 Behance</a>
+    <br>
+    <a href="https://www.linkedin.com/in/idaeljurf" target="_blank" style="text-decoration: none; color: inherit;">🔗 LinkedIn</a>
+</div>
+<br>
 - 🔭 I’m currently working on this page. 
