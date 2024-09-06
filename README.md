@@ -1,6 +1,4 @@
-### 👋 Hi, I’m Ida!
-#### Passionate Designer and Tech Lover
-![Passionate Designer and Tech Lover](https://github.com/user-attachments/assets/dced16b9-b736-4bbf-a869-3db04f17c6ea)
+![widget](https://github.com/user-attachments/assets/dced16b9-b736-4bbf-a869-3db04f17c6ea)
 
 Hi, I’m <b>Ida!</b> 💗 I’m studying <b>Graphic Information Technology</b> with a focus on <b>User Experience Design</b> at ASU. Though I’m now on the east coast, I’m originally from the west coast and have a love for the great outdoors.
 
